@@ -27,8 +27,11 @@ The press release makes the future vivid. The FAQ makes it honest.
 
 ## How to use it
 
-Start with a prompt like: "I want to build a personal PRFAQ, how can I get
-started?"
+Start with a prompt like:
+
+```text
+I want to build a personal PRFAQ, how can I get started?
+```
 
 Start by choosing one of two paths:
 
