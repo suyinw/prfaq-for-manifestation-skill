@@ -1,4 +1,4 @@
-# PRFAQ for Personal Manifiestation Skill
+# PRFAQ for Manifiestation Skill
 
 A skill for writing a **Personal PRFAQ** — a press release and FAQ written from
 the future, as if a goal for your own life, growth, or transformation has already
